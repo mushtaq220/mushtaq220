@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mushtaq Ansari</h1>
-<h3 align="center">A passionate MERN STACK developer</h3>
+<h3 align="center">A passionate MERN STACK developer, I am passionate about creating scalable, efficient, and user-friendly applications that meet the needs of clients and end-users. In addition to my technical skills, I value clear communication, attention to detail, and a commitment to continuous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushtaq220&label=Profile%20views&color=0e75b6&style=flat" alt="mushtaq220" /> </p>
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React, Redux, Node, Express, MongoDB**
 
-- 💬 Ask me about **react, redux and javascript**
+- 💬 Ask me about **react, redux, node, express, mongoDB and javascript**
 
 - 📫 How to reach me **mushtaqansari565@gmail.com**
 
